@@ -106,7 +106,7 @@
   <tr>
     <th scope="col">Model & Infra</td>
     <th scope="col">FrontEnd</td>
-    <th scope="col">FrontEnd</td>
+    <th scope="col">BackEnd</td>
   </tr>
   <tr>
     <td>Python 3.10.12</td>
@@ -115,7 +115,7 @@
   </tr>
   <tr>
     <td>Pytorch Lightning</td>
-    <td></td>
+    <td>Tailwind CSS 3.3.3</td>
     <td>TorchServe</td>
   </tr>
   <tr>
