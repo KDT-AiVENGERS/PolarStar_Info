@@ -47,37 +47,7 @@
 
 
 
-<h3>
- 💡 1. 랜딩 페이지
-</h3>
-<p align="center">
-  <img width="1727" alt="PolarStar_LandingPage" src="https://github.com/KDT-AiVENGERS/.github/assets/110510080/edffed0d-2dd7-4f08-b7c8-c11095f35ce6">
-</p>
-<br>
 
-<h3>
- 💡 2. 유저 Q&A
-</h3>
-<p align="center">
-  <img width="1727" alt="PolarStar_Q&A" src="https://github.com/KDT-AiVENGERS/.github/assets/110510080/9c50dfc8-1e76-4862-bc04-12574a045e5b">
-</p>
-<br>
-
-<h3>
- 💡 3. 채용공고 추천
-</h3>
-<p align="center">
-  <img width="1727" alt="PolarStar_JDRec" src="https://github.com/KDT-AiVENGERS/.github/assets/110510080/db012b20-3dec-492b-a8e4-55d5e1579a34">
-</p>
-<br>
-
-<h3>
- 💡 4. 강의 추천
-</h3>
-<p align="center">
-  <img width="1727" alt="PolarStar_LECRec" src="https://github.com/KDT-AiVENGERS/.github/assets/110510080/c4ec9a0b-3167-437c-9fd7-6003e8aa7d30">
-</p>
-<br>
 <!--테이블: repo-->
 <h1>
   Repository 📌
