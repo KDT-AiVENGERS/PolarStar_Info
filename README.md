@@ -39,6 +39,14 @@
  서비스 기능 소개 및 설명 📌
 </h1>
 
+<p align="center">
+
+<img src='https://github.com/KDT-AiVENGERS/PolarStar_Info/assets/60493070/19c040b3-647c-4dcc-854f-4e5074130585'>
+
+</p>
+
+
+
 <h3>
  💡 1. 랜딩 페이지
 </h3>
