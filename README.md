@@ -41,7 +41,7 @@
 
 <p align="center">
 
-<img src='https://github.com/KDT-AiVENGERS/PolarStar_Info/assets/60493070/19c040b3-647c-4dcc-854f-4e5074130585'>
+<img src='https://github.com/KDT-AiVENGERS/PolarStar_Info/assets/60493070/f92064c1-0fed-44fb-990e-c53399fd1b54'>
 
 </p>
 
